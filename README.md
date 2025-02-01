@@ -31,7 +31,7 @@ A Streamlit-based ChatGPT-like interface powered by Groq's lightning-fast infere
 ## Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/groq-ai-chat.git
+   git clone https://github.com/6ogo/AI-Chat-Assistant.git
    cd groq-ai-chat
    ```
    
